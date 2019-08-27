@@ -11,6 +11,8 @@ complaints and/or criticisms that OptimumKinematics users
 might have. Please contact us at [software@optimumg.com](mailto:software@optimumg.com) and we will endeavor to improve OptimumKinematics based on your feedback.
 Within OptimumKinematics the user is able to report any issues, features or ideas. Users have the option to report feedback. Read the Quick Start section to see how to do this.
 
+## Document Overview
+The help file can be navigated by clicking on thevarious section links in th document. At the bottom of each sub-section, there is also a link that will bring you back to the beggining of that section. If you re new to OptimumKinematics, then you should start by reading through the Quick Start guide.
 
 
 1. [Introduction](1_Introduction/1_Introduction.md)
