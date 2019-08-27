@@ -2,7 +2,8 @@
 Title: Design Overview
 summary: 
 authors:
-    - Paulo Yamagata    
+    - Paulo Yamagata
+    - Pedro Brasil    
 date: 2019/4/26
 ---
 

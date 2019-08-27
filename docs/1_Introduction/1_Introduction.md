@@ -2,7 +2,8 @@
 Title: Introduction
 summary: 
 authors:
-    - Paulo Yamagata    
+    - Paulo Yamagata
+    - Pedro Brasil   
 date: 2019/4/26
 ---
 
@@ -19,11 +20,11 @@ Significant improvements for version two are:
     * The Ribbon Bar Control allows quick access to all the functionalities of the software. Buttons are filtered depending on the active control.
     * A multiple document interface (MDI) allows for flexibility and customization of the layout of the application. The ability to make edits to multiple points and instantly see the comparison is now possible.
     * Adjust the size and display and location of the controls and window panes to improve the working space organization and maximize performance.
-* __New Project Framework.__ The project data is no longer saving in a single file. The software uses a unique file type to save each object (for instance; [Suspension](../2_Quick_Start/C_Design_Overview.html#Suspension), [Motion](../2_Quick_Start/C_Design_Overview.html#Motion), [Force](../2_Quick_Start/C_Design_Overview.html#Force), or [Analysis Results](../5_Detailed_Overview/D_Analysis.html#Analysis-Results)). Each file has a specific extension and icon for easy recognition on your hard drive. The Project Tree reflects the directory created on your hard drive. This reflection has multiple advantages:
+* __New Project Framework.__ The project data is no longer saving in a single file. The software uses a unique file type to save each object (for instance; [Suspension](../2_Quick_Start/C_Design_Overview.md#Suspension), [Motion](../2_Quick_Start/C_Design_Overview.md#Motion), [Force](../2_Quick_Start/C_Design_Overview.md#Force), or [Analysis Results](../5_Detailed_Overview/D_Analysis.md#Analysis-Results)). Each file has a specific extension and icon for easy recognition on your hard drive. The Project Tree reflects the directory created on your hard drive. This reflection has multiple advantages:
     * Decreases the risk of corruption and losing all the data belonging to one project. An object can be corrupted or missing without affecting the rest of the objects belonging to the project.
     * Improves the loading and saving performance by more than 30%.
     * The sharing of files is faster and easier with the new proprietary file. There is no need to use Excel as a tool to share files. 
-    * Better organization of your [Suspension](../2_Quick_Start/C_Design_Overview#Suspension), [Motion](../2_Quick_Start/C_Design_Overview#Motion), [Force](../2_Quick_Start/C_Design_Overview.html#Force), and [Analysis Results](../5_Detailed_Overview/D_Analysis#Analysis-Results) objects with the introduction of a “Vehicle” level in the project tree.
+    * Better organization of your [Suspension](../2_Quick_Start/C_Design_Overview.md#Suspension), [Motion](../2_Quick_Start/C_Design_Overview.md#Motion), [Force](../2_Quick_Start/C_Design_Overview.md#Force), and [Analysis Results](../5_Detailed_Overview/D_Analysis.md#Analysis-Results) objects with the introduction of a “Vehicle” level in the project tree.
 * __New Design Tools.__ The redesigned input forms allow faster design and modifications of your suspensions and motions.
     * Suspension points can be edited directly in the 3D visualization.
     * The software calculates and displays static outputs of your suspension automatically and in real-time.
