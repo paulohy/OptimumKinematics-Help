@@ -2,7 +2,7 @@
 Title: Licensing
 summary: This section contains the details regarding the licensing of OptimumKinematics (with and without the Forces Module).
 authors:
-    - Pedro Brasil   
+    - Pedro Brasil
 date: 2019/8/27
 ---
 
