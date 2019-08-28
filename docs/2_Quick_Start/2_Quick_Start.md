@@ -1,0 +1,1 @@
+The following section helps you to learn how to utilize the main features of OptimumKinematics quickly. For a more detailed overview of the software, please refer to the [Detailed Overview](../3_Detailed_Overview/3_Detailed_Overview.md).
