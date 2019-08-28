@@ -1,6 +1,6 @@
 ﻿---
-Title: Licensing
-summary: This section contains the details regarding the licensing of OptimumKinematics (with and without the Forces Module).
+Title: Launching the Application
+summary: This section contains the information about the Graphical User Interface and how to manage projects.
 authors:
     - Pedro Brasil
 date: 2019/8/28
