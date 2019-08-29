@@ -6,6 +6,8 @@ authors:
 date: 2019/8/27
 ---
 
+# Licensing
+
 OptimumKinematics uses two different licenses for the standard software and the Forces Module add-on.  The OptimumKinematics software license can be purchased yearly through our [website](http://www.optimumg.com/software/purchase-a-software-subscription-plan/).
 
 The Forces Module is an additional module which you may purchase on our website for an additional yearly fee.  The Forces Module adds the ability to apply forces in each corner of the car and calculate the force at each pickup point of the suspension.

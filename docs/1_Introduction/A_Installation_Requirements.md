@@ -6,7 +6,9 @@ authors:
 date: 2019/8/27
 ---
 
-# Hardware Requirements
+# Software Requirements
+
+## Hardware Requirements
 | Section | Minimum | Recommended|
 |:---|:---|:---|
 |Processor| Intel® Xeon™ <br> Intel® Core™ <br> AMD® Athlon™ <br> AMD® Opteron™ <br> AMD® Turion™| |
@@ -17,7 +19,7 @@ date: 2019/8/27
 | Display Unit | 15” screen with a resolution of 1024 x 768 pixels | 19” screen with a resolution of 1280 x 1024 pixels <br> 21” screen with a resolution of 1280 x 1200 pixels |
 | Other | Mouse or other pointing device | |
 
-# Software Requirements
+## Software Requirements
 | Section | Required |
 |:---|:---|
 | Operating <br> System | Microsoft® Windows® 7 (32/64-bit) <br> Microsoft® Windows® 8 (32/64-bit) <br> Microsoft® Windows® 10 (32/64-bit) |
