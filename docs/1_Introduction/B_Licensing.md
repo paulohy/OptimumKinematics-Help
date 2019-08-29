@@ -12,7 +12,7 @@ The Forces Module is an additional module which you may purchase on our website 
 
 To apply the licenses for OptimumKinematics:
 
-* Activation. In the Backstage ([Graphical User Interface](../2_Quick_Start/A_Launching_the_Application.md#Graphical User Interface), Under File) select License and then Apply Key. You enter with the Key, your Name, and E-Mail address.  There are separate options to enter the main license and the Forces Module license.
-* Deactivation. You must deactivate a key to use it on another computer. To perform a key deactivation, go to ‘License’ at the Backstage.  You can either deactivate the license manually or choose the ‘Deactivate on Closing’ option.
+* Activation. In the <span style="color:mediumpurple"> __Backstage__ </span> ([Graphical User Interface](../2_Quick_Start/A_Launching_the_Application.md#Graphical-User-Interface), Under File) select __License__ and then Apply Key. You enter with the Key, your Name, and E-Mail address.  There are separate options to enter the main license and the Forces Module license.
+* Deactivation. You must deactivate a key to use it on another computer. To perform a key deactivation, go to __License__ at the <span style="color:mediumpurple"> __Backstage__ </span>.  You can either deactivate the license manually or choose the ‘Deactivate on Closing’ option.
 
 In the case that an internet connection is not available for periodic activation, the user has a small grace period to ensure that they do not lose access to OptimumKinematics.
