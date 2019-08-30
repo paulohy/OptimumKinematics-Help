@@ -1,5 +1,5 @@
 ---
-Title: Frquently Asked Questions
+Title: Frequently Asked Questions
 summary: This section contains the Frequently Asked Questions and their answers.
 authors:
     - Pedro Brasil    
