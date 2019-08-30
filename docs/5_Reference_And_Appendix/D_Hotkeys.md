@@ -12,7 +12,7 @@ date: 2019/8/30
 
 |Keys|Action|
 |:---|:---|
-|__Alt + Letter__| Activate a Main Menu item that hasthe letter underlined |
+|__Alt + Letter__| Activate a Main Menu item that has the letter underlined |
 |__Alt + F__| File |
 |__Alt + F then S__| Save |
 |__Alt + F then A__| Save As |
@@ -54,6 +54,8 @@ date: 2019/8/30
 
 ## Motion
 
+|Keys|Action|
+|:---|:---|
 |__Mouse Left-Click__|Add Points|
 |__Mouse Right-Click__|Remove Points|
 |__Ctrl + Mouse Left-Click__|Modify Points|
