@@ -22,6 +22,13 @@ nav:
       - Analysis: 3_Detailed_Overview/D_Analysis.md
     - Frequently Asked Questions:
       - Frequently Asked Questions: 4_Frequenly_Asked_Questions/Frequenly_Asked_Questions.md
+    - Reference and Appendix:
+      - Reference and Appendix: 5_Reference_And_Appendix/5_Reference_And_Appendix.md
+      - Default Suspension Types: 5_Reference_And_Appendix/A_Default_Suspension_Types.md
+      - Default Motion Types: 5_Reference_And_Appendix/B_Default_Motion_Types.md
+      - Glossary and Defnitions: 5_Reference_And_Appendix/C_Glossary_And_Definitions.md
+      - Hotkeys: 5_Reference_And_Appendix/D_Hotkeys.md
+      - Contact Information: 5_Reference_And_Appendix/E_Contact_Information.md
 
       
 

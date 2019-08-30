@@ -29,5 +29,10 @@ The help file can be navigated by clicking on thevarious section links in th doc
    * [Design](3_Detailed_Overview/B_Design.md)
    * [Simulation](3_Detailed_Overview/C_Simulation.md)
    * [Analysis](3_Detailed_Overview/D_Analysis.md)
-
 4. [Frequently Asked Questions](4_Frequently_Asked_Questions/4_Frequently_Asked_Questions.md)
+5. [Reference And Appendix](5_Reference_And_Appendix/5_Reference_And_Appendix.md)
+   * [Default Suspension Types](5_Reference_And_Appendix/A_Default_Suspension_Types.md)
+   * [Default Motion Types](5_Reference_And_Appendix/B_Default_Motion_Types.md)
+   * [Glossary and Definitions](5_Reference_And_Appendix/C_Glossary_And_Definitions.md)
+   * [Hotkeys](5_Reference_And_Appendix/D_Hotkeys.md)
+   * [Contact Information](5_Reference_And_Appendix/E_Contact_Information.md)
