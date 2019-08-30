@@ -24,9 +24,10 @@ The help file can be navigated by clicking on thevarious section links in th doc
     * [Design Overview](2_Quick_Start/C_Design_Overview.md)
     * [Simulation Overview](2_Quick_Start/D_Simulation_Overview.md)
     * [Analysis Overview](2_Quick_Start/E_Analysis_Overview.md)
-
 3. [Detailed Overview](3_Detailed_Overview/3_Detailed_Overview.md)
    * [Reference System](3_Detailed_Overview/A_Reference_System.md)
    * [Design](3_Detailed_Overview/B_Design.md)
    * [Simulation](3_Detailed_Overview/C_Simulation.md)
    * [Analysis](3_Detailed_Overview/D_Analysis.md)
+
+4. [Frequently Asked Questions](4_Frequently_Asked_Questions/4_Frequently_Asked_Questions.md)
