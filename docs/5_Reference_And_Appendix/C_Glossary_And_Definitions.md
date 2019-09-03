@@ -1,10 +1,14 @@
 ---
 Title: Glossary and Definitions
-summary: This section contains the details about the OptimumKinematics parameters' definitions.
+summary: This section contains the details about the OptimumKinematics parameters' definitions. MathJax was used for the equations.
 authors:
     - Pedro Brasil    
 date: 2019/8/30
 ---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+</script>
 
 # Glossary and Definitions
 
@@ -82,7 +86,7 @@ Anti-dive is defined at the force reaction from the suspension links that are in
 
 Anti-dive for the front suspension can be calculated using the CG height of the vehicle (hm), the side view swing arm angle (ΘF), the front brake torque bias (% Braking Torque), and the wheelbase (L).  The brake torque bias is included as it is a reactionary force that can be applied at the contact patch of the vehicle.  The equation for anti-dive is as follows:
 
-![Anti-Dive Equation](../img/5_Reference_And_Appendix/5_C_anti-dive_equation.png)
+$$ \% AntiDive = \%BrakingTorque \times \frac{Ltan(\theta_F)}{CG_{height}} $$
 
 ### Rear Anti-Lift
 
@@ -92,7 +96,7 @@ Anti-lift is the function of the rear suspension preventing the rear of the chas
 
 Rear anti-lift is calculated with the longitudinal forces being applied at the contact patch of the vehicle.  Note that if the rear brakes of the vehicle are inboard of the chassis, the rear anti-lift should be taken at the wheel center of the vehicle.  Otherwise, the equation is as follows:
 
-![Rear Anti-Lift Equation](../img/5_Reference_And_Appendix/5_C_rear_anti-lift_equation.png)
+$$ \% AntiLift = \%BrakingTorque \times \frac{Ltan(\theta_R)}{CG_{height}} $$
 
 ### Anti-Squat
 
@@ -102,7 +106,7 @@ Anti-squat is the geometric reaction of the rear suspension against the vehicle 
 
 The anti-squat is calculated using the same elements of Wheelbase, CG Height, and Side View Swing Arm Angle.  With the anti-squat, the relative angle is taken to the swing arm as the driving torque is applied at the wheel center rather than at the contact patch.  The driving torque is calculated as the ratio of torque being acted upon at the rear axle, with 100% of the driving torque being applied at the rear wheels in a rear-wheel-drive car, and 0% of driving torque at the rear wheels in a front-wheel-drive car.  The equation for anti-squat is as follows:
 
-![Anti-Squat Equation](../img/5_Reference_And_Appendix/5_C_anti-squat_equation.png)
+ $$ \% AntiSquat = \%DrivingTorque \times \frac{Ltan(\theta_R)}{CG_{height}} $$
 
 ### Front Anti-Lift
 
@@ -112,7 +116,7 @@ Front anti-lift is defined as the reaction of the front suspension preventing th
 
 Front anti-lift can be determined using the relative angle of the front side view instant center to the wheel center, the percentage of the driving torque applied at the front axle, the wheelbase, and the height of the center of gravity.
 
-![Front Anti-Lift Equation](../img/5_Reference_And_Appendix/5_C_front_anti-lift_equation.png)
+ $$ \% AntiLift = \%DrivingTorque \times \frac{Ltan(\theta_F)}{CG_{height}} $$
 
 ### Camber Angle
 
@@ -130,7 +134,11 @@ Toe is defined as the angular deflection from the vehicles centerline and the ce
 
 The motion ratio is calculated in the following way:
 
-![Motion Ratio](../img/5_Reference_And_Appendix/5_C_motion_ratio.png)
+$$ \frac{Wheel Displacement}{Spring Displacement} $$
+
+and
+
+$$ \frac{Roll Angle}{ARB Angular Displacement} $$
 
 ### Toe Distance
 
@@ -234,4 +242,6 @@ The Roll Axis Inclination is defined as the angle between the kinematic roll axi
 
 The Ackerman Percentage is defined as a function of the inside steer angle, the outside steer angle, the front track, and the vehicle wheelbase. The equations are as follows.
 
-![Ackerman Percentage](../img/5_Reference_And_Appendix/5_C_ackerman_percentage.png)
+$$ Ackerman = tan^{-1} \left( \frac{wheelbase}{\frac{wheelbase}{tan \delta_{outside}}\times 100} \right) $$
+
+$$ Ackermann_{percent} = \frac{\delta_{inside}}{Ackerman}\times 100 $$
