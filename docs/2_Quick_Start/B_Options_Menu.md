@@ -41,7 +41,6 @@ The following settings may be changed to adapt to your specific needs:
       * Front View Instantaneous Axis
       * Side View Instantaneous Axis
       * Instantaneous Axis
-
 * Names
     * The user should name the following Objects before creation: 
       * Vehicle
