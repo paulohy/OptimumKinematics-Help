@@ -1,0 +1,37 @@
+site_name: OptimumKinematics Help File
+
+nav:
+    - Home: index.md
+    - Welcome: welcome.md
+    - Introduction:
+      - Introduction: 1_Introduction/1_Introduction.md
+      - Installation Requirements: 1_Introduction/A_Installation_Requirements.md
+      - Licensing: 1_Introduction/B_Licensing.md
+    - Quick Start:
+      - Quick Start: 2_Quick_Start/2_Quick_Start.md
+      - Launching the Application: 2_Quick_Start/A_Launching_the_Application.md
+      - Options Menu: 2_Quick_Start/B_Options_Menu.md
+      - Design Overview: 2_Quick_Start/C_Design_Overview.md
+      - Simulation Overview: 2_Quick_Start/D_Simulation_Overview.md
+      - Analysis Overview: 2_Quick_Start/E_Analysis_Overview.md
+    - Detailed Overview:
+      - Detailed Overview: 3_Detailed_Overview/3_Detailed_Overview.md
+      - Reference System: 3_Detailed_Overview/A_Reference_System.md
+      - Design: 3_Detailed_Overview/B_Design.md
+      - Simulation: 3_Detailed_Overview/C_Simulation.md
+      - Analysis: 3_Detailed_Overview/D_Analysis.md
+    - Frequently Asked Questions:
+      - Frequently Asked Questions: 4_Frequently_Asked_Questions/4_Frequently_Asked_Questions.md
+    - Reference and Appendix:
+      - Reference and Appendix: 5_Reference_And_Appendix/5_Reference_And_Appendix.md
+      - Default Suspension Types: 5_Reference_And_Appendix/A_Default_Suspension_Types.md
+      - Default Motion Types: 5_Reference_And_Appendix/B_Default_Motion_Types.md
+      - Glossary and Definitions: 5_Reference_And_Appendix/C_Glossary_And_Definitions.md
+      - Hotkeys: 5_Reference_And_Appendix/D_Hotkeys.md
+      - Contact Information: 5_Reference_And_Appendix/E_Contact_Information.md
+
+      
+
+theme: readthedocs
+
+use_directory_urls: false
