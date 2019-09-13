@@ -30,8 +30,38 @@ nav:
       - Hotkeys: 5_Reference_And_Appendix/D_Hotkeys.md
       - Contact Information: 5_Reference_And_Appendix/E_Contact_Information.md
 
-      
 
-theme: readthedocs
+theme: 
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  palette: 
+    primary: 'orange'
+    accent: 'orange'
+  logo: 'img/optimum_kinematics_icon.svg'
+  favicon: 'img/OptimumKinematics.ico'
+  language: 'en'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: false
+
+repo_name: 'Need further assistance?'
+repo_url: 'http://www.optimumg.com/contact/software-support/'
+
+extra:
+  social:
+    - type: 'globe'
+      link: 'http://www.optimumg.com/'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/OptimumG/'
+    - type: 'twitter'
+      link: 'https://twitter.com/g_optimum'
+    - type: 'instagram'
+      link: 'https://www.instagram.com/optimumg/?hl=en'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/company/optimumg'
+
+copyright: 'Copyright © OptimumG 2019'
 
 use_directory_urls: false
